@@ -11,7 +11,7 @@ input： for (int i = 1; i <= dataSetSize; i++) {
 
         
 # Default Input：
-Parmeter1: "F:\\dataset\\data\\sim2\\sim2_sub(1-50).txt"; 50 sub-datasets of length 200; File path of fMRI data which has been Discretized.
+Parmeter1: "F:\\dataset\\data\\sim2\\sim2_sub(1-50).txt"; 50 sub-datasets of length 200; File path of simulation-data which has been Discretized.
 Parmeter2: 10 ;  Number of biosignaling node
 Parmeter3: 200;  Length of a sub-data
 Parmeter4: 10 ;  Running times
