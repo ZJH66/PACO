@@ -2,13 +2,7 @@
 # jdk1.8
 # run： java -jar PACO.jar 
 
-# input：  
-#         for (int i = 1; i <= 50; i++) {
-#            dataSet.add("F:\\dataset\\data\\sim2\\sim2_sub" + i + ".txt");
-#        }
-#        return dataSet;
-
-
+input：50 simulation subdatasets of length 200  
 Parameters Explanation:
 Parmeter1: E:\\ACOECFD\\fMRI-4.txt ; File path of fMRI data which has been Discretized.
 Parmeter2: 5 ;  Number of biosignaling node
